@@ -14,4 +14,4 @@ _**Привет!**_
 
 **Email:** kotovaea@ro.ru
 
-`theme: minima`
+`theme: architect`
