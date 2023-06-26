@@ -12,4 +12,4 @@ _**Привет!**_
 
 **Тел.:**  89048631049
 
-**Email:** [kotovaea@ro.ru](kotovaea@ro.ru)
+**Email:** kotovaea@ro.ru
