@@ -13,5 +13,3 @@ _**Привет!**_
 **Тел.:**  89048631049
 
 **Email:** kotovaea@ro.ru
-
-`remote_theme: architect`
