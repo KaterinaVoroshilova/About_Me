@@ -14,4 +14,4 @@ _**Привет!**_
 
 **Email:** kotovaea@ro.ru
 
-`remote theme: architect`
+`remote_theme: architect`
